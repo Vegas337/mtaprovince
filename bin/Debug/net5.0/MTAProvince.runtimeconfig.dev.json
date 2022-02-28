@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Vegas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Vegas\\.nuget\\packages",
+      "G:\\Programms_G\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+    ]
+  }
+}
