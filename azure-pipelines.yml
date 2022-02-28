@@ -6,10 +6,6 @@
 
 trigger:
 - main
-- task: DotNetCoreCLI@2
-  inputs:
-    command: 'build'
-    projects: 'MTAProvince.csproj'
 
 variables:
   solution: '**/*.sln'
